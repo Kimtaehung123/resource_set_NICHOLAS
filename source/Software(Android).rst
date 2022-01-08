@@ -1,8 +1,9 @@
-**需要fq的国外软件安卓安装包**
+**Software(Android)**
 ===================================
 
 国外的软件必须在VPN开启（后台运行）的条件下才能连上网。
 
+以下都为安卓安装包。
 
 1. :download:`instagram <instagram.zip>` 
 2. :download:`youtube <油管.zip>`
