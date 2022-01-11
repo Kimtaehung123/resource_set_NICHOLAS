@@ -5,6 +5,6 @@
 
 以下都为安卓安装包，点击名字可以下载。
 
-1. :download:`instagram <Instagram.zip>` 
-2. :download:`youtube <油管.zip>`
+1. :download:`instagram <Instagram_v211.0.0.33.117_apkpure.com.apk>` 
+2. :download:`youtube <youtube_15.47.36.apk>`
 3. :download:`谷歌应用商店 <Google Play Store_v20.9.10-all [0] [PR] 319853039_apkpure.com.apk>` 

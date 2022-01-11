@@ -5,8 +5,8 @@
 
 以下VPN都可以用，第一个近期我感觉挺好用的，点击名字可以下载。
 
-1. :download:`psiphon-pro(赛风) <psiphon-pro.zip>` 
-2. :download:`老王VPN <老王VPN.zip>`
+1. :download:`psiphon-pro(赛风) <Psiphon Pro The Internet Freedom VPN_v330_apkpure.com.apk>` 
+2. :download:`老王VPN <Wang VPN ❤️ Free Fast Stable Best VPN Just try it_v2.2.22_apkpure.com.apk>`
 
 **VPN（苹果安装包）**
 ============================
