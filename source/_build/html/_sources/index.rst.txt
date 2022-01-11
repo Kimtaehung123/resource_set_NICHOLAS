@@ -10,8 +10,8 @@ Welcome to RESOURCE_SET_LX&NICHOLAS's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   VPN
-   ins_youtube等国外软件
+   VPN(android and apple)
+   Software(Android)
    
 
 

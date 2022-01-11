@@ -10,7 +10,7 @@ Welcome to RESOURCE_SET_LX&NICHOLAS's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   VPN
+   VPN(android and apple)
    Software(Android)
    
 
