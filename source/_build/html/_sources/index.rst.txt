@@ -10,8 +10,9 @@ Welcome to RESOURCE_SET_LX&NICHOLAS's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   VPN(android and apple)
-   Software(Android)
+   VPN(android and apple移动端)
+   Software(Android移动端)
+   VPN(Windows电脑端)
    
 
 
