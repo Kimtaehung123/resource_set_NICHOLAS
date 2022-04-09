@@ -9,8 +9,12 @@
 
 **网不好的时候谷歌浏览器不好登录上，可以选择连接VPN的情况下,在浏览器打开** `apkpure网址 <https://apkpure.com/cn/>`_ **搜索安卓安装包下载安装**
 
+**tonton CINEMA打造全新网络电影《午夜自助洗衣店》，蹲亲爱的梁梁NicholasTeo，第五条下载安卓版**
+
 1. :download:`instagram <Instagram_v211.0.0.33.117_apkpure.com.apk>` 
 2. :download:`youtube <youtube_15.47.36.apk>`
 3. :download:`谷歌应用商店 <Google Play Store_v20.9.10-all [0] [PR] 319853039_apkpure.com.apk>` 
 4. :download:`Facebook <Facebook_v348.0.0.39.118_apkpure.com.apk>`
+5. :download:`tonton <tonton_v5.3.3_apkpure.com.apk>`
+
 
