@@ -16,5 +16,6 @@
 3. :download:`谷歌应用商店 <Google Play Store_v20.9.10-all [0] [PR] 319853039_apkpure.com.apk>` 
 4. :download:`Facebook <Facebook_v348.0.0.39.118_apkpure.com.apk>`
 5. :download:`tonton <tonton_v5.3.3_apkpure.com.apk>`
+6. :download:`SYOK <SYOK Radio Music Podcasts_v8.12.7_apkpure.com.apk>`
 
 
